@@ -1,0 +1,6 @@
+openai
+streamlit
+fpdf
+pydub
+whisper
+torch
